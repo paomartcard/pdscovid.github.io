@@ -73,11 +73,11 @@ for row in matrix[1:]:
             f.write("<div style=\"border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;\">\n")
 
             RoleTwo = row[11]
-            f.write("<p style=\"margin-bottom: 0px; margin-top: 0px;\">" + RoleOne + "</p>\n")
+            f.write("<p style=\"margin-bottom: 0px; margin-top: 0px;\">" + RoleTwo + "</p>\n")
 
             jdTwo = row[13]
             if(jdTwo != ""):
-                f.write("<a href=\"" + jdTwo+ "\" target=\"_blank\" class=\"job\">Job Description</a>\n")
+                f.write("<a href=\"" + jdTwo + "\" target=\"_blank\" class=\"job\">Job Description</a>\n")
                 f.write("<div class=\"job\">|  </div>\n")
 
             AvailabilityTwo = row[14]
