@@ -34,20 +34,22 @@ for row in matrix[1:]:
 
         orgURL = row[22]
         orgName = row[2]
-        print(orgName)
         f.write("<a href=\"" + orgURL + "\" class=\"job\" style=\"text-decoration: none;\" target=\"_blank\" class=\"job\">")
         f.write("<h1 class=\"jobTitle\">" + orgName + "</h1>")
         f.write("</a>\n<br>\n")
 
         orgDescription = row[17]
-        f.write("<div class=\"info\">" + orgDescription + "</div>\n")
+        f.write("<div class=\"info\" style=\"margin-bottom: 9px\">" + orgDescription + "</div>\n")
+
+        f.write("<div style=\"border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;\">\n")
 
         RoleOne = row[5]
         f.write("<p style=\"margin-bottom: 0px; margin-top: 0px;\">" + RoleOne + "</p>\n")
 
         jdOne = row[7]
-        f.write("<a href=\"" + jdOne + "\" target=\"_blank\" class=\"job\">Job Description</a>\n")
-        f.write("<div class=\"job\">|  </div>\n")
+        if (jdOne != ""):
+            f.write("<a href=\"" + jdOne + "\" target=\"_blank\" class=\"job\">Job Description</a>\n")
+            f.write("<div class=\"job\">|  </div>\n")
 
         AvailabilityOne = row[8]
         f.write("<div class=\"job\">" +AvailabilityOne+ "</div>\n")
@@ -63,14 +65,20 @@ for row in matrix[1:]:
         descriptionOne = row[18]
         f.write("<div class=\"info\">" + descriptionOne + "</div>\n")
 
+        f.write("</div>\n")
+
         RoleTwo = row[11]
         if(RoleTwo != ""):
+
+            f.write("<div style=\"border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;\">\n")
+
             RoleTwo = row[11]
             f.write("<p style=\"margin-bottom: 0px; margin-top: 0px;\">" + RoleOne + "</p>\n")
 
             jdTwo = row[13]
-            f.write("<a href=\"" + jdTwo+ "\" target=\"_blank\" class=\"job\">Job Description</a>\n")
-            f.write("<div class=\"job\">|  </div>\n")
+            if(jdTwo != ""):
+                f.write("<a href=\"" + jdTwo+ "\" target=\"_blank\" class=\"job\">Job Description</a>\n")
+                f.write("<div class=\"job\">|  </div>\n")
 
             AvailabilityTwo = row[14]
             f.write("<div class=\"job\">" + AvailabilityTwo + "</div>\n")
@@ -85,6 +93,8 @@ for row in matrix[1:]:
 
             descriptionTwo = row[19]
             f.write("<div class=\"info\">" + descriptionTwo + "</div>\n")
+
+            f.write("</div>\n")
         f.write("</div>\n")
 f.close()
 
