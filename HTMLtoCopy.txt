@@ -14,17 +14,6 @@
 <div class="info">They are looking for someone with 3+ YOE, to bring our platform and products wherever they are most needed. This person will need to have strong technical design instincts, comfort making contributions across the entire stack, a willingness to dive into tough problems and diverse data, and a collaborative and kind nature to add to our culture.
 </div>
 </div>
-<div style="border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;">
-<p style="margin-bottom: 0px; margin-top: 0px;">3-4 Data Scientists</p>
-<div class="job">20+hrs/week volunteer</div>
-<div class="job">|  </div>
-<div class="job">Start 05/01/20</div>
-<div class="job">|  </div>
-<div class="job">Needed for 7-8 months</div>
-<div class="info">This person will help Recidiviz analyze data and derive insights that will help them push for new policies. This is particularly important now that COVID is spreading within prisons and safely reducing populations of prisons can lead to improved wellbeing and reduction of the virus' spread. 
-
-</div>
-</div>
 </div>
 <div class="card">
 <a href="https://www.re-plate.org/" class="job" style="text-decoration: none;" target="_blank" class="job"><h1 class="jobTitle">Replate</h1></a>
@@ -66,5 +55,64 @@
 <div class="job">|  </div>
 <div class="job">Needed for 2-4 weeks</div>
 <div class="info">The candidate should be a "smart generalist" who can figure out how to take their API and market it to individuals skilled in data viz as well as governments using this data to make informed decisions and guide their response to the pandemic. </div>
+</div>
+</div>
+<div class="card">
+<a href="https://open.gov.sg/" class="job" style="text-decoration: none;" target="_blank" class="job"><h1 class="jobTitle">Open Gov. Products (OGP) - Singapore</h1></a>
+<br>
+<div class="info" style="margin-bottom: 9px">While OGP usually works on projects in all domains, it's currently focused in developing a suite of product to help combat coronavirus and return restart economies. P</div>
+<div style="border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;">
+<p style="margin-bottom: 0px; margin-top: 0px;">4 Mobile Devs</p>
+<a href="https://docs.google.com/document/d/1Vg2XYBd7-C6b4AoKO-IdVJYPu6HCfENJymRUcv90IcU/edit" target="_blank" class="job">Job Description</a>
+<div class="job">|  </div>
+<div class="job">20+hrs/week volunteer</div>
+<div class="job">|  </div>
+<div class="job">Start 4/27/2020</div>
+<div class="job">|  </div>
+<div class="job">Needed for 3 months</div>
+<div class="info">Working on a suite of products (refer to job description) and looking for experienced mobile devs that can join our small team and work on developing products that will be deployed soon after. </div>
+</div>
+</div>
+<div class="card">
+<a href="https://www.dimagi.com" class="job" style="text-decoration: none;" target="_blank" class="job"><h1 class="jobTitle">Dimagi Inc</h1></a>
+<br>
+<div class="info" style="margin-bottom: 9px">Dimagi was born from the belief that there’s a better way to provide services to those in need. Our mission is to create digital products that support global development efforts.</div>
+<div style="border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;">
+<p style="margin-bottom: 0px; margin-top: 0px;">Software Engineers</p>
+<a href="https://www.dimagi.com/careers/job/2176914/
+" target="_blank" class="job">Job Description</a>
+<div class="job">|  </div>
+<div class="job">Full Time Employee, 20+hrs/week volunteer</div>
+<div class="job">|  </div>
+<div class="job">Start 05/04/20</div>
+<div class="job">|  </div>
+<div class="job">Needed for 4-6 months</div>
+<div class="info">Dimagi’s technology is being utilized for the COVID-19 response, especially in contact tracing, and we are looking for talented individuals to assist us in this effort.  We're looking for Software Engineers who want to jump in and work with us on these efforts.</div>
+</div>
+<div style="border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;">
+<p style="margin-bottom: 0px; margin-top: 0px;">Application Engineers</p>
+<div class="job">Full Time Employee, 20+hrs/week volunteer</div>
+<div class="job">|  </div>
+<div class="job">Start 05/04/20</div>
+<div class="job">|  </div>
+<div class="job">Needed for 4-6 months</div>
+<div class="info">Dimagi’s technology is being utilized for the COVID-19 response, and we are seeking someone who wants to use their technical background to get things done, and find solutions to complex problems to help in this response.</div>
+</div>
+</div>
+<div class="card">
+<a href="https://www.chicagobooth.edu/research/applied-ai" class="job" style="text-decoration: none;" target="_blank" class="job"><h1 class="jobTitle">Booth School of Business (Center for Applied Artificial Intelligence)</h1></a>
+<br>
+<div class="info" style="margin-bottom: 9px">The Center for Applied Artificial Intelligence is bringing together researchers from across Booth and the University to create revolutionary advances in the applications of AI. Our work touches fields as diverse as finance, healthcare, public policy, education, and behavioral science.</div>
+<div style="border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;">
+<p style="margin-bottom: 0px; margin-top: 0px;">Data Scientist</p>
+<a href="https://docs.google.com/document/d/1nX37a-gyMfaFSKBbh5RXyJMqNRVIxgCEaTaa0judcZo/edit#" target="_blank" class="job">Job Description</a>
+<div class="job">|  </div>
+<div class="job">Full Time Employee, 20+hrs/week volunteer</div>
+<div class="job">|  </div>
+<div class="job">Start 05/04/20</div>
+<div class="job">|  </div>
+<div class="job">Needed for Indefinite</div>
+<div class="info">Different businesses pose very different disease transmission risk. Our project builds on granular cell-phone “ping” data to assess the degree of transmission risk posed by individual businesses. We are lookingsomeone who can formulate precise questions and translate those into data requirements. This individual will need to develop repeatable data pipelines to address the research needs, evaluate findings and recommend alternative approaches, and iterate quickly as findings emerge.
+</div>
 </div>
 </div>

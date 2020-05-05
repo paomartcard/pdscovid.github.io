@@ -32,72 +32,68 @@ for row in matrix[1:]:
     if(row[0] == ""):
         f.write("<div class=\"card\">\n")
 
-        orgURL = row[22]
-        orgName = row[2]
+        orgURL = row[5]
+        orgName = row[4]
         f.write("<a href=\"" + orgURL + "\" class=\"job\" style=\"text-decoration: none;\" target=\"_blank\" class=\"job\">")
         f.write("<h1 class=\"jobTitle\">" + orgName + "</h1>")
         f.write("</a>\n<br>\n")
 
-        orgDescription = row[17]
+        orgDescription = row[6]
         f.write("<div class=\"info\" style=\"margin-bottom: 9px\">" + orgDescription + "</div>\n")
 
         f.write("<div style=\"border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;\">\n")
 
-        RoleOne = row[5]
+        RoleOne = row[9]
         f.write("<p style=\"margin-bottom: 0px; margin-top: 0px;\">" + RoleOne + "</p>\n")
 
-        jdOne = row[7]
+        jdOne = row[12]
         if (jdOne != ""):
             f.write("<a href=\"" + jdOne + "\" target=\"_blank\" class=\"job\">Job Description</a>\n")
             f.write("<div class=\"job\">|  </div>\n")
 
-        AvailabilityOne = row[8]
+        AvailabilityOne = row[13]
         f.write("<div class=\"job\">" +AvailabilityOne+ "</div>\n")
         f.write("<div class=\"job\">|  </div>\n")
 
-        startDateOne = row[9]
+        startDateOne = row[14]
         f.write("<div class=\"job\">Start " +startDateOne+ "</div>\n")
         f.write("<div class=\"job\">|  </div>\n")
 
-        durationOne = row[10]
+        durationOne = row[15]
         f.write("<div class=\"job\">Needed for " +durationOne+"</div>\n")
 
-        descriptionOne = row[18]
+        descriptionOne = row[10]
         f.write("<div class=\"info\">" + descriptionOne + "</div>\n")
 
         f.write("</div>\n")
 
-        RoleTwo = row[11]
+        RoleTwo = row[16]
         if(RoleTwo != ""):
 
             f.write("<div style=\"border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;\">\n")
 
-            RoleTwo = row[11]
+            RoleTwo = row[16]
             f.write("<p style=\"margin-bottom: 0px; margin-top: 0px;\">" + RoleTwo + "</p>\n")
 
-            jdTwo = row[13]
+            jdTwo = row[19]
             if(jdTwo != ""):
                 f.write("<a href=\"" + jdTwo + "\" target=\"_blank\" class=\"job\">Job Description</a>\n")
                 f.write("<div class=\"job\">|  </div>\n")
 
-            AvailabilityTwo = row[14]
+            AvailabilityTwo = row[20]
             f.write("<div class=\"job\">" + AvailabilityTwo + "</div>\n")
             f.write("<div class=\"job\">|  </div>\n")
 
-            startDateTwo = row[15]
+            startDateTwo = row[21]
             f.write("<div class=\"job\">Start " + startDateTwo + "</div>\n")
             f.write("<div class=\"job\">|  </div>\n")
 
-            durationTwo = row[16]
+            durationTwo = row[22]
             f.write("<div class=\"job\">Needed for " + durationTwo + "</div>\n")
 
-            descriptionTwo = row[19]
+            descriptionTwo = row[17]
             f.write("<div class=\"info\">" + descriptionTwo + "</div>\n")
 
             f.write("</div>\n")
         f.write("</div>\n")
 f.close()
-
-
-
-
