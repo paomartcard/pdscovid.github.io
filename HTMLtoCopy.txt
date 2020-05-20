@@ -1,4 +1,34 @@
 <div class="card">
+<a href="https://www.gsb.stanford.edu/" class="job" style="text-decoration: none;" target="_blank" class="job"><h1 class="jobTitle">Stanford GSB</h1></a>
+<br>
+<div class="info" style="margin-bottom: 9px">Shoshana Vasserman and Mohammad Akbarpour's research team is working on an economic model to understand the economic and health implications of different ways to reopen the economy during the ongoing crisis.</div>
+<div style="border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;">
+<p style="margin-bottom: 0px; margin-top: 0px;">1-2 web developers</p>
+<div class="job">Full Time Employee, 20+hrs/week volunteer</div>
+<div class="job">|  </div>
+<div class="job">Start 5/22/2020</div>
+<div class="job">|  </div>
+<div class="job">Needed for 3 months</div>
+<div class="info">We are a group of economists at Stanford, UC Berkeley and Univ. of Chicago working on an economic model to understand the economic and health implications of different ways to reopen the economy during the ongoing crisis. Our model allows a policy-maker to take a variety of policy actions (say, shut down an industry, shut down a single location, change the days on which people work etc) and understand the implications for both the economy and health outcomes. We are able to provide results on the effects of reopening policies specific to a given metro area (e.g. Bay area, New York) since we rely on granular data on social and economic networks at the city-level for our analysis. 
+
+We are looking for someone to help us design an interactive web interface for our model. Given our geographic focus, the interface should have a heavy mapping component, where a visitor can click on certain regions or places that he/she would like to "shut down" and examine the implications of that decision on health/economic outcomes. We will work with you to design a simple MVP and then refine and improve it over time. The ultimate goal is to diffuse the results of our analysis to the general public, business owners and policy-makers to enable them to make the best decisions about reopening the economy in the weeks and months ahead.</div>
+</div>
+</div>
+<div class="card">
+<a href="https://cdcfoundation.org" class="job" style="text-decoration: none;" target="_blank" class="job"><h1 class="jobTitle">CDC Foundation</h1></a>
+<br>
+<div class="info" style="margin-bottom: 9px">The CDC Foundation was created by Congress to extend the U.S. Centers for Disease Control and Prevention's (CDC) life-saving work through public-private partnerships. The CDC Foundation works with CDC and partners to address a wide range of health challenges, from chronic diseases to infectious diseases to injuries to emergency responses, such as the current COVID-19 pandemic.  </div>
+<div style="border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;">
+<p style="margin-bottom: 0px; margin-top: 0px;">Communications subject matter experts/implementers</p>
+<div class="job">Full Time Employee, 20+hrs/week volunteer</div>
+<div class="job">|  </div>
+<div class="job">Start 6/15/2020</div>
+<div class="job">|  </div>
+<div class="job">Needed for 3 months</div>
+<div class="info">Seeking volunteers or experts who are senior writers, web strategists (SEO) and social media strategists (we utilize Facebook, Twitter, LinkedIn, YouTube, Instagram and TikTok), communications measurement experts who can work with the CDC Foundation to develop content on COVID-19 response topics and build on our web and social media strategy.</div>
+</div>
+</div>
+<div class="card">
 <a href="https://www.governor.ny.gov/" class="job" style="text-decoration: none;" target="_blank" class="job"><h1 class="jobTitle">NY Governor's Office</h1></a>
 <br>
 <div class="info" style="margin-bottom: 9px">NY Governor's office is looking for technical talent to help inform decisions and mitigate the impact of the pandemic. </div>
@@ -98,28 +128,5 @@
 <div class="job">Needed for > 1 year</div>
 <div class="info">They are looking for someone with 3+ YOE, to bring our platform and products wherever they are most needed. This person will need to have strong technical design instincts, comfort making contributions across the entire stack, a willingness to dive into tough problems and diverse data, and a collaborative and kind nature to add to our culture.
 </div>
-</div>
-</div>
-<div class="card">
-<a href="https://cdcfoundation.org" class="job" style="text-decoration: none;" target="_blank" class="job"><h1 class="jobTitle">CDC Foundation</h1></a>
-<br>
-<div class="info" style="margin-bottom: 9px">The CDC Foundation was created by Congress to extend the U.S. Centers for Disease Control and Prevention's (CDC) life-saving work through public-private partnerships. The CDC Foundation works with CDC and partners to address a wide range of health challenges, from chronic diseases to infectious diseases to injuries to emergency responses, such as the current COVID-19 pandemic.  </div>
-<div style="border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;">
-<p style="margin-bottom: 0px; margin-top: 0px;">Communications subject matter experts/implementers</p>
-<div class="job">Full Time Employee, 20+hrs/week volunteer</div>
-<div class="job">|  </div>
-<div class="job">Start 6/15/2020</div>
-<div class="job">|  </div>
-<div class="job">Needed for 3 months</div>
-<div class="info">Seeking volunteers or experts who are senior writers, web strategists (SEO) and social media strategists (we utilize Facebook, Twitter, LinkedIn, YouTube, Instagram and TikTok), communications measurement experts who can work with the CDC Foundation to develop content on COVID-19 response topics and build on our web and social media strategy.</div>
-</div>
-<div style="border-left: 3px solid #444444; padding-left: 5px; margin-bottom: 9px;">
-<p style="margin-bottom: 0px; margin-top: 0px;">Communications subject matter experts/implementers</p>
-<div class="job">Full Time Employee, 20+hrs/week volunteer</div>
-<div class="job">|  </div>
-<div class="job">Start 6/15/2020</div>
-<div class="job">|  </div>
-<div class="job">Needed for 3 months</div>
-<div class="info">Seeking volunteers or experts who are senior writers, web strategists (SEO) and social media strategists (we utilize Facebook, Twitter, LinkedIn, YouTube, Instagram and TikTok), communications measurement experts who can work with the CDC Foundation to develop content on COVID-19 response topics and build on our web and social media strategy.</div>
 </div>
 </div>
